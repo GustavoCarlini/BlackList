@@ -1,0 +1,1 @@
+{"GET /blackList/:cpf 200":7,"POST /blackList 200":10,"GET /health 200":5,"POST /blackList function status(code) {\n  this.statusCode = code;\n  return this;\n}":3,"GET /health function status(code) {\n  this.statusCode = code;\n  return this;\n}":1,"POST /blackList ":19,"GET /health ":7,"GET /blackList/:cpf ":2,"DELETE /blackList/:cpf ":1}
